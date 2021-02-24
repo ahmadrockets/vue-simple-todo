@@ -1,5 +1,10 @@
 # vue-todo
 
+Vue simple todo web apps with:
+- vue js
+- vuex
+- tailwind css
+
 ## Project setup
 ```
 yarn install
