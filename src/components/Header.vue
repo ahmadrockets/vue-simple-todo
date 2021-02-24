@@ -5,7 +5,8 @@
     </p>
     <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
       Simple vue todo list with vuejs, tailwind css, vuex <br />
-      By : <a href="https://ahmadrockets.github.io" target="_blank"><b>Ahmad Fahrudin</b></a>
+      By : <a href="https://ahmadrockets.github.io" target="_blank"><b>Ahmad Fahrudin</b></a><br />
+      <a href="https://github.com/ahmadrockets/vue-simple-todo" target="_blank"> Github repository </a> 
     </p>
   </div>
 </template>
