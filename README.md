@@ -5,6 +5,8 @@ Vue simple todo web apps with:
 - vuex
 - tailwind css
 
+![picture](https://vuetodofah.netlify.app/capture.gif)
+
 ## Project setup
 ```
 yarn install
